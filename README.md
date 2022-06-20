@@ -4,8 +4,9 @@ Link para o github pages:  https://leonardoalves04.github.io/Clone-Spotify/
 
 Imagem do projeto:
 
+•Página:
 ![image](https://user-images.githubusercontent.com/69488943/172716714-58689108-40cc-424b-8d15-482105f2ad3d.png)
 
-
+•Footer (rodapé):
 ![image](https://user-images.githubusercontent.com/69488943/172716789-7420d3a9-5c21-460d-8ad7-bd988f82b38f.png)
 
